@@ -1,5 +1,5 @@
 /*
-GCD II
+GCD II: https://www.spoj.com/problems/GCD2/ , https://www.codechef.com/problems/GCD2
 Frank explained to his friend Felman the algorithm of Euclides to calculate the GCD of two numbers. Then Felman implements its algorithm
 
 int gcd(int a, int b){

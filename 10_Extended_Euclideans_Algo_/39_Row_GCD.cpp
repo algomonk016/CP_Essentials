@@ -1,5 +1,5 @@
 /*
-Row Gcd
+Row Gcd: https://codeforces.com/contest/1459/problem/C
   You are given two positive integer sequences a1, ... ,an and b1, ... ,bm. For each j=1, ... ,m find the greatest common divisor of a1+bj, ... ,an+bj.
   return an array containing answer for each j=1,...,m respectively.
 

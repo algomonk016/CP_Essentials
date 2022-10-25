@@ -1,5 +1,5 @@
 /*
-Coprime Divisor
+Coprime Divisor: https://www.interviewbit.com/problems/largest-coprime-divisor/
   You are given two positive numbers a and b. You need to find the maximum valued integer x such that:
   x divides a i.e. a % x = 0
   x and b are co-prime i.e. gcd(x, b) = 1

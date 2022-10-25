@@ -1,5 +1,5 @@
 /*
-Alice Studies Informatics
+Alice Studies Informatics: https://codeforces.com/contest/992/problem/B
   Today in Informatics class Alice learned about GCD and LCM. Alice is very intelligent, so she solved all the tasks momentarily and now suggests you to solve one of them as well.
   We define a pair of integers (a, b) good, if GCD(a, b) = x and LCM(a, b) = y, where GCD(a, b) denotes the greatest common divisor of a and b, and   LCM(a, b) denotes the least common multiple of a and b.
   You are given two integers x and y. You are to find the number of good pairs of integers (a, b) such that l ≤ a, b ≤ r. Note that pairs (a, b) and (b, a) are considered different if a ≠ b.
